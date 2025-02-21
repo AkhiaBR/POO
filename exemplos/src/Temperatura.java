@@ -3,7 +3,7 @@
 public class Temperatura // classe pública com nome: Temperatura
 {
     /* void (método não possui retorno)
-       estático (método pertence a classe)
+       Define o método como estático, isso quer dizer que a classe não precisa ser instanciada para chamar este método.)
        main(String[] args) - array de strings (String[]) e args pois sera recebido um INPUT
      */
     public static void main(String[] args)
