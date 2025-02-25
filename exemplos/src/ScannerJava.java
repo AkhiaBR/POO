@@ -5,7 +5,7 @@ public class ScannerJava
     public static void main(String[] args) {
         double celsius, fahrenheit;
 
-        Scanner entrada = new Scanner(System.in);
+        Scanner entrada = new Scanner(System.in); // cria um objeto ('new Scanner') dentro da classe importada 'Scanner' no comeco do argumento
 
         System.out.println("Digite alguma temperatura em celsius: ");
         celsius = entrada.nextDouble();

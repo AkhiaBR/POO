@@ -2,10 +2,10 @@
 
 public class Temperatura // classe pública com nome: Temperatura
 {
-    /* void (método não possui retorno)
-       Define o método como estático, isso quer dizer que a classe não precisa ser instanciada para chamar este método.)
-       main(String[] args) - array de strings (String[]) e args pois sera recebido um INPUT
-     */
+       // void - nao retorna nada
+       // static - o static funciona como um metodo independente, nao precisa de nada (uma instancia dentro da classe, por exemplo) para executa-lo, pois e estatico. Se nao fosse estatico, o programa nao rodaria, pois nao existe nada para que o Java execute o metodo, ja que e a primeira vez rodando o programa
+       // main(String[] args) - array de strings (String[]) que espera um argumento no command-line, por enquanto, esse codigo nao inclui nenhum argumento por cmd, ele so serve para executar o codigo
+
     public static void main(String[] args)
     {
         double celsius, fah, kelvin, re, ra; // criação de variáveis decimais
