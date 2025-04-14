@@ -6,12 +6,12 @@ public class VerificarParImparArray
         int [] valores = new int[10];
         int contador = 0, contadorPar = 0, contadorImpar = 0;
 
-        while (contador<=valores.length-1) {
-            contador++;
+        while (contador<valores.length) {
             int valor = Integer.parseInt(JOptionPane.showInputDialog("Digite um valor: "));
-            valores[valor] = valor;
+            valores[contador] = valor; // para cada posição do array (contador), agrega-se um valor
+            contador++;
 
-                if (valores[valor] % 2 == 0) {
+                if (valor % 2 == 0) {
                     contadorPar++;
                 }
                 else {

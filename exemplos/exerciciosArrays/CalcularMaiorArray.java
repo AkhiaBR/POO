@@ -3,17 +3,15 @@ import javax.swing.*;
 public class CalcularMaiorArray
 {
     public static void main(String[] args) {
-        int [] numeros = {1,2,3,4,5,6,7,8,9,10};
-        int maiorNumero = 0, menorNumero = 0;
+        int [] numeros = {7,3,1,6,7,8,5,3,2,9};
+        int maiorNumero = numeros[0], menorNumero = numeros[0];
 
         for (int i=0; i<numeros.length; i++) {
-            int numero = numeros[i];
-
-            if (numero>maiorNumero) {
-                numero = maiorNumero;
+            if (numeros[i] > maiorNumero) {
+                maiorNumero = numeros[i];
             }
-            else if (numero<menorNumero){
-                numero = menorNumero;
+            if (numeros[i] < menorNumero) {
+                menorNumero = numeros[i];
             }
         }
 
