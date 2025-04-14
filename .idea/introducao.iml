@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/exemplos/exerciciosOptionPane" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exemplos/exerciciosMetodos" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exemplos/exerciciosArrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exemplos/exerciciosArraysMetodos" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
