@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/exemplos/exerciciosArraysMetodos" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exemplos/exercicio01Heranca" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exemplos/exerciciosHeranca" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exemplos/exercicio01Polimorfismo" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
