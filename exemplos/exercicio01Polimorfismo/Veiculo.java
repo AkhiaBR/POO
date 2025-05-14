@@ -20,13 +20,13 @@ public class Veiculo
     }
 
     public void dadosVeiculo () {
-        System.out.print("--------------------");
-        System.out.print("Código: "+codigo);
-        System.out.print("Marca: "+marca);
-        System.out.print("Modelo: "+modelo);
-        System.out.print("Ano: "+ano);
-        System.out.print("Cor: "+cor);
-        System.out.print("Peso: "+peso);
-        System.out.print("Tamanho: "+tamanho);
+        System.out.println("--------------------");
+        System.out.println("Código: "+codigo);
+        System.out.println("Marca: "+marca);
+        System.out.println("Modelo: "+modelo);
+        System.out.println("Ano: "+ano);
+        System.out.println("Cor: "+cor);
+        System.out.println("Peso: "+peso);
+        System.out.println("Tamanho: "+tamanho);
     }
 }
