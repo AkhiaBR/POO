@@ -17,6 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/exemplos/exercicio01Polimorfismo/Application" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exemplos/exercicio02Polimorfismo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exemplos/exercicio02Polimorfismo/Application" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exemplos/exercicio03Polimorfismo" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
